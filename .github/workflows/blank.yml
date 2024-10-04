@@ -1,9 +1,9 @@
-name: Build & Publish Release APK
+name: Build & Publish Release APK sasd
 
 on:
   push:
     branches:
-      - main
+      - ci
 
 jobs:
   Gradle:
