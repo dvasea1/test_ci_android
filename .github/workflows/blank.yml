@@ -3,7 +3,7 @@ name: Build & Publish apk
 on:
   push:
     branches:
-      - ci
+      - cd
 
 jobs:
   Gradle:
