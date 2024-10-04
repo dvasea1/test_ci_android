@@ -1,4 +1,4 @@
-name: Build & Publish Release APK sasd
+name: Build & Publish
 
 on:
   push:
